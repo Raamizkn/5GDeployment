@@ -17,8 +17,4 @@ This project uses AI to analyze geographic and demographic data for optimal 5G t
 - `geo_data.geojson`: Mock geographic data
 - `5g_deployment_analysis.html`: Interactive map output
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/5g-deployment-analysis.git
 
